@@ -1,4 +1,4 @@
-# Copy_as_Plain_Text - Chrome extension
+# Copy as Plain Text - Chrome extension
 
 Copy selected text without formatting as plain text.
 
